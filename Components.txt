@@ -13,9 +13,9 @@ Below is the content for your project report. Copy this into a Word document, fo
 
 ---
 
-**Student Name:** [Your Full Name]  
-**Registration Number:** [Your Registration Number]  
-**Slot:** [Your Slot]  
+**Student Name:** Koppolu pardhu
+**Registration Number:** 24BAC10055 
+**Slot:** B22
 **Date of Submission:** March 31, 2026
 
 ---
